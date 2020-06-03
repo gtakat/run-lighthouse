@@ -1,0 +1,14 @@
+{
+  "name": "run-lighthouse",
+  "version": "1.0.0",
+  "description": "Run Lighthouse",
+  "author": "gtakat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gtakat/run-lighthouse.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "lighthouse": "^6.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  lighthouse:
+    tty: true
+    stdin_open: true
+    build:
+      context: .
+    volumes:
+      - ./reports:/home/lighthouse/reports
+
